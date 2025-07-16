@@ -32,8 +32,6 @@ O objetivo principal foi colocar em prática conceitos fundamentais de:
 - **❌ Cancelamento de Agendamentos**  
   Cancele agendamentos existentes com uma confirmação simples.
 
-> 💡 *Sugestão: Adicione aqui um GIF ou captura de tela da aplicação funcionando.*
-
 ---
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
@@ -63,7 +61,7 @@ O objetivo principal foi colocar em prática conceitos fundamentais de:
 
 ## 📂 Estrutura de Pastas
 
-```plaintext
+```HairDay
 /
 ├── dist/                # Arquivos finais para produção
 ├── node_modules/        # Dependências
@@ -130,4 +128,4 @@ Agradeço à **Rocketseat** por todo o conteúdo de qualidade e os desafios prá
 
 ---
 
-📎 **Deploy**: [Hair Day no GitHub](https://github.com/Leyvison-Menezes/HairDay)
+📎 **GitHub**: [Hair Day no GitHub](https://github.com/Leyvison-Menezes/HairDay)
